@@ -20,29 +20,29 @@ It allows users to search for words and view their meanings.
 
 Python
 
-Dictionary
+*Dictionary
 
-while loop
+*while loop
 
-if-else
+*if-else
 
-User input
+*User input
 
 
 🎯 Learning Purpose
 
 This project helps practice:
 
-Python dictionaries
+*Python dictionaries
 
-while loops
+*while loops
 
 Conditional statements
-
+*
 input()
-
+*
 String methods
-
+*
 
 👩‍💻 Author
 

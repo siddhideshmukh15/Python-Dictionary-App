@@ -33,17 +33,17 @@ Python
 
 This project helps practice:
 
-*Python dictionaries
+Python dictionaries
 
-*while loops
+while loops
 
 Conditional statements
-*
+
 input()
-*
+
 String methods
-*
+
 
 👩‍💻 Author
 
-Siddhi Deshmukh
+**Siddhi Deshmukh**
